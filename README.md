@@ -23,4 +23,4 @@ Example1: To get a user with id 1 :Send a get request to path: localhost:8080/us
 "name": "Student_name",
 "birthDate: "some_date"
 }
-Other requests can be made similarly. 
+Other requests can be made similarly.See controllers in the code for all REST endpoints that are available. Users can enroll in some courses and be graded in those courses only of they were enrolled. Validations are implemented for every request. Courses , Students and users are connected data and their relationships are modelled accordingly.  
